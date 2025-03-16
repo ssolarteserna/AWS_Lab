@@ -1,0 +1,114 @@
+{
+    "measurements": [
+        {
+            "sensor_id": "THS-001",
+            "timestamp": "2025-03-18T02:56:20.008658Z",
+            "temperature": 36.2,
+            "humidity": 58.1,
+            "location": {
+                "latitude": 7.789899,
+                "longitude": -132.988347
+            },
+            "battery_level": 99
+        },
+        {
+            "sensor_id": "THS-004",
+            "timestamp": "2025-03-19T19:31:20.011610Z",
+            "temperature": 29.7,
+            "humidity": 55.8,
+            "location": {
+                "latitude": -11.819736,
+                "longitude": 52.51567
+            },
+            "battery_level": 50
+        },
+        {
+            "sensor_id": "THS-005",
+            "timestamp": "2025-03-20T02:13:20.011681Z",
+            "temperature": 2.6,
+            "humidity": 75.8,
+            "location": {
+                "latitude": 89.872804,
+                "longitude": -10.084418
+            },
+            "battery_level": 9
+        },
+        {
+            "sensor_id": "THS-003",
+            "timestamp": "2025-03-22T17:55:20.011739Z",
+            "temperature": 13.0,
+            "humidity": 61.8,
+            "location": {
+                "latitude": -84.966613,
+                "longitude": 131.566213
+            },
+            "battery_level": 56
+        },
+        {
+            "sensor_id": "THS-002",
+            "timestamp": "2025-03-17T08:26:20.011805Z",
+            "temperature": 9.8,
+            "humidity": 53.1,
+            "location": {
+                "latitude": 18.592184,
+                "longitude": 108.495525
+            },
+            "battery_level": 79
+        },
+        {
+            "sensor_id": "THS-001",
+            "timestamp": "2025-03-16T10:38:20.011865Z",
+            "temperature": 20.4,
+            "humidity": 76.3,
+            "location": {
+                "latitude": 7.789899,
+                "longitude": -132.988347
+            },
+            "battery_level": 61
+        },
+        {
+            "sensor_id": "THS-004",
+            "timestamp": "2025-03-22T03:36:20.011897Z",
+            "temperature": 27.6,
+            "humidity": 60.1,
+            "location": {
+                "latitude": -11.819736,
+                "longitude": 52.51567
+            },
+            "battery_level": 27
+        },
+        {
+            "sensor_id": "THS-001",
+            "timestamp": "2025-03-18T20:46:20.011945Z",
+            "temperature": 23.1,
+            "humidity": 56.9,
+            "location": {
+                "latitude": 7.789899,
+                "longitude": -132.988347
+            },
+            "battery_level": 8
+        },
+        {
+            "sensor_id": "THS-001",
+            "timestamp": "2025-03-22T16:46:20.011964Z",
+            "temperature": 17.8,
+            "humidity": 70.6,
+            "location": {
+                "latitude": 7.789899,
+                "longitude": -132.988347
+            },
+            "battery_level": 29
+        },
+        {
+            "sensor_id": "THS-002",
+            "timestamp": "2025-03-21T12:57:20.011977Z",
+            "temperature": 10.8,
+            "humidity": 58.0,
+            "location": {
+                "latitude": 18.592184,
+                "longitude": 108.495525
+            },
+            "battery_level": 46
+        }
+    ]
+}
